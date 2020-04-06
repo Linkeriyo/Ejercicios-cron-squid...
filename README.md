@@ -1,1 +1,3 @@
 # Ejercicios-cron-squid...
+
+Cada carpeta contiene su respectivo material.
